@@ -1,0 +1,14 @@
+/*CSS Reset*/
+
+* {
+  margin: 0;
+}
+header {
+  color: blueviolet;
+  background-color: gray;
+}
+
+main {
+  height: calc(100vh -50px -50px);
+  background-color: red;
+}
