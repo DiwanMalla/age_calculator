@@ -12,3 +12,11 @@ main {
   height: calc(100vh -50px -50px);
   background-color: red;
 }
+
+.first {
+  background-color: white;
+}
+
+.second {
+  background-color: yellow;
+}
